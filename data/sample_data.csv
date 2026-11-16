@@ -1,0 +1,7 @@
+project_name,completion_pct,days_remaining,weekly_progress,cost_variance_pct,monthly_revenue,monthly_expenses,cash_balance,debt,project_risk_label
+Office Tower,42,25,0.35,22,220000,210000,18000,160000,1
+Road Upgrade,78,60,1.25,5,300000,190000,140000,90000,0
+Warehouse Build,58,35,0.55,17,180000,175000,22000,125000,1
+IT Deployment,91,20,1.60,2,260000,150000,170000,50000,0
+Residential Block,35,18,0.25,28,150000,145000,12000,140000,1
+Solar Installation,67,75,0.95,8,340000,220000,180000,100000,0
